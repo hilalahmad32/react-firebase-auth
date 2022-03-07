@@ -1,0 +1,20 @@
+.bg-dark {
+    background-color: rgb(32, 29, 29) !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.flex {
+    display: flex !important;
+    justify-content: space-between;
+}
+
+.mx-4 {
+    margin: 0 40px !important;
+}
+
+.my-50 {
+    margin: 50px 0px;
+}
